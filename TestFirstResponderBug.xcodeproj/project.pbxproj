@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					B6E64D201EE85B08001906CB = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = QAYT4ZT23X;
 						ProvisioningStyle = Automatic;
 					};
 					B6E64D341EE85B08001906CB = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = QAYT4ZT23X;
 				INFOPLIST_FILE = TestFirstResponderBug/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = us.dandom.TestFirstResponderBug;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = QAYT4ZT23X;
 				INFOPLIST_FILE = TestFirstResponderBug/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = us.dandom.TestFirstResponderBug;
